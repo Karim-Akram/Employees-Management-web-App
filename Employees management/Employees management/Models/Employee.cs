@@ -8,7 +8,7 @@
         public string EmployeeEmail { get; set; }
         public int EmployeeAge { get; set; }
 
-        public int EmployeeDepartment { get; set; }
+        public string EmployeeDepartment { get; set; }
 
 
     }
