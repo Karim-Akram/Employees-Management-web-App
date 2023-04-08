@@ -1,0 +1,42 @@
+D:\Karim's Files\ASP.Net Core Web API Registration App\Employees management\Employees management\obj\Debug\net6.0\Employees management.csproj.AssemblyReference.cache
+D:\Karim's Files\ASP.Net Core Web API Registration App\Employees management\Employees management\obj\Debug\net6.0\Employees management.GeneratedMSBuildEditorConfig.editorconfig
+D:\Karim's Files\ASP.Net Core Web API Registration App\Employees management\Employees management\obj\Debug\net6.0\Employees management.AssemblyInfoInputs.cache
+D:\Karim's Files\ASP.Net Core Web API Registration App\Employees management\Employees management\obj\Debug\net6.0\Employees management.AssemblyInfo.cs
+D:\Karim's Files\ASP.Net Core Web API Registration App\Employees management\Employees management\obj\Debug\net6.0\Employees management.csproj.CoreCompileInputs.cache
+D:\Karim's Files\ASP.Net Core Web API Registration App\Employees management\Employees management\obj\Debug\net6.0\Employees management.MvcApplicationPartsAssemblyInfo.cs
+D:\Karim's Files\ASP.Net Core Web API Registration App\Employees management\Employees management\obj\Debug\net6.0\Employees management.MvcApplicationPartsAssemblyInfo.cache
+D:\Karim's Files\ASP.Net Core Web API Registration App\Employees management\Employees management\bin\Debug\net6.0\appsettings.Development.json
+D:\Karim's Files\ASP.Net Core Web API Registration App\Employees management\Employees management\bin\Debug\net6.0\appsettings.json
+D:\Karim's Files\ASP.Net Core Web API Registration App\Employees management\Employees management\bin\Debug\net6.0\Employees management.exe
+D:\Karim's Files\ASP.Net Core Web API Registration App\Employees management\Employees management\bin\Debug\net6.0\Employees management.deps.json
+D:\Karim's Files\ASP.Net Core Web API Registration App\Employees management\Employees management\bin\Debug\net6.0\Employees management.runtimeconfig.json
+D:\Karim's Files\ASP.Net Core Web API Registration App\Employees management\Employees management\bin\Debug\net6.0\Employees management.dll
+D:\Karim's Files\ASP.Net Core Web API Registration App\Employees management\Employees management\bin\Debug\net6.0\Employees management.pdb
+D:\Karim's Files\ASP.Net Core Web API Registration App\Employees management\Employees management\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\Karim's Files\ASP.Net Core Web API Registration App\Employees management\Employees management\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\Karim's Files\ASP.Net Core Web API Registration App\Employees management\Employees management\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Karim's Files\ASP.Net Core Web API Registration App\Employees management\Employees management\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\Karim's Files\ASP.Net Core Web API Registration App\Employees management\Employees management\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+D:\Karim's Files\ASP.Net Core Web API Registration App\Employees management\Employees management\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Karim's Files\ASP.Net Core Web API Registration App\Employees management\Employees management\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Karim's Files\ASP.Net Core Web API Registration App\Employees management\Employees management\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Karim's Files\ASP.Net Core Web API Registration App\Employees management\Employees management\bin\Debug\net6.0\System.Data.SqlClient.dll
+D:\Karim's Files\ASP.Net Core Web API Registration App\Employees management\Employees management\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+D:\Karim's Files\ASP.Net Core Web API Registration App\Employees management\Employees management\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+D:\Karim's Files\ASP.Net Core Web API Registration App\Employees management\Employees management\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+D:\Karim's Files\ASP.Net Core Web API Registration App\Employees management\Employees management\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Karim's Files\ASP.Net Core Web API Registration App\Employees management\Employees management\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Karim's Files\ASP.Net Core Web API Registration App\Employees management\Employees management\obj\Debug\net6.0\staticwebassets\msbuild.Employees management.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Karim's Files\ASP.Net Core Web API Registration App\Employees management\Employees management\obj\Debug\net6.0\staticwebassets\msbuild.build.Employees management.props
+D:\Karim's Files\ASP.Net Core Web API Registration App\Employees management\Employees management\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Employees management.props
+D:\Karim's Files\ASP.Net Core Web API Registration App\Employees management\Employees management\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Employees management.props
+D:\Karim's Files\ASP.Net Core Web API Registration App\Employees management\Employees management\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Karim's Files\ASP.Net Core Web API Registration App\Employees management\Employees management\obj\Debug\net6.0\staticwebassets.build.json
+D:\Karim's Files\ASP.Net Core Web API Registration App\Employees management\Employees management\obj\Debug\net6.0\staticwebassets.development.json
+D:\Karim's Files\ASP.Net Core Web API Registration App\Employees management\Employees management\obj\Debug\net6.0\scopedcss\bundle\Employees management.styles.css
+D:\Karim's Files\ASP.Net Core Web API Registration App\Employees management\Employees management\obj\Debug\net6.0\Employees management.csproj.CopyComplete
+D:\Karim's Files\ASP.Net Core Web API Registration App\Employees management\Employees management\obj\Debug\net6.0\Employees management.dll
+D:\Karim's Files\ASP.Net Core Web API Registration App\Employees management\Employees management\obj\Debug\net6.0\refint\Employees management.dll
+D:\Karim's Files\ASP.Net Core Web API Registration App\Employees management\Employees management\obj\Debug\net6.0\Employees management.pdb
+D:\Karim's Files\ASP.Net Core Web API Registration App\Employees management\Employees management\obj\Debug\net6.0\Employees management.genruntimeconfig.cache
+D:\Karim's Files\ASP.Net Core Web API Registration App\Employees management\Employees management\obj\Debug\net6.0\ref\Employees management.dll
